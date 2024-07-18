@@ -8,7 +8,7 @@
 
 <h2>Preview</h2>
 <img src="![Screenshot 2024-07-17 at 10 45 48 PM](https://github.com/user-attachments/assets/1a9db393-3a81-4bc6-bd32-5f8b7376ea5d)"
->
+alt="quick pic" >
 
 
 
