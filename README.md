@@ -7,7 +7,7 @@
 
 
 <h2>Preview</h2>
-<img src="![Screenshot 2024-07-17 at 10 45 48 PM](https://github.com/user-attachments/assets/d7b737e2-bb2f-4c32-b274-e8fa347128d4)" alt="page"
+<img src="<img width="1440 Screenshot 2024-07-17 at 10 45 48 PM https://github.com/user-attachments/assets/3309ea63-a56c-4f30-a8af-41e6998d9b2a" alt="page"
 >
 
 
