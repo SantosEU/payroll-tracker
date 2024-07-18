@@ -7,7 +7,7 @@
 
 
 <h2>Preview</h2>
-<img width="1440" alt="Screenshot 2024-06-28 at 1 40 53 AM" src="https://github.com/SantosEU/horiseon-web-access/assets/172340264/a387d69d-2523-42ee-bca6-4df857350583">
+<img ![Screenshot 2024-07-17 at 10 45 48 PM](https://github.com/user-attachments/assets/fe051659-ab4c-4d0d-9b23-f1258777643f)>
 
 
 
